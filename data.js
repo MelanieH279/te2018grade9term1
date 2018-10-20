@@ -1,9 +1,4 @@
-// Example
-let message = "HackeMa is in";
-console.log(message);
-
-let doesLikacon = true;
-console.log(doesLikeBacon);
+// Exampl
 
 // Type your code below!
 
