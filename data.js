@@ -2,7 +2,7 @@
 let message = "HackeMa is in";
 console.log(message);
 
-let doesLikeBacon = true;
+let doesLikacon = true;
 console.log(doesLikeBacon);
 
 // Type your code below!
