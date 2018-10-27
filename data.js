@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 // Example
 let message = "shay";
 console.log(message);
+=======
+// Exampl
+>>>>>>> 24fdf5c12dbcb643733d812a19c5b5fb07610b61
 
 let nummy = 8
 console.log(nummy)
@@ -29,3 +33,17 @@ string = "happiness"
 console.log(string)
 
 // Type your code below!
+
+
+
+
+
+
+
+
+
+
+
+// console.log before you declare
+// declaring twice
+// variable names with spaces
