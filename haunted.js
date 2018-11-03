@@ -18,10 +18,11 @@ console.log(`${player.name} stands in front of a spooky haunted house.`);
 console.log(`${player.name} hears what sounds like screaming coming from inside the house.`);
 let enterHouse = READLINE.question("Will you enter the house? (yes or no) ");
 if(enterHouse == "y" || enterHouse == "yes") {
-  player.courage++;
+  player.courage += 3;
   console.log(`${player.name} prepares their ${player.weapon} and opens the door...`);
   // continue the story
-
+console.log("It is dark!..... Will you turn on your flashlight??")
+if(turnFlashlight == "y" || turnFlashlight == "yes")
 } else {
   player.intellect++;
   console.log(`${player.name} decides not to open the door. However...`);
